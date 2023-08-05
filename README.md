@@ -1,5 +1,6 @@
 # Window-Functions
-I use the [NYC Airbnb Kaggle dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) to [practice SQL window functions. Click here to access the SQL code with comments.](https://github.com/Nikhil-Pickle/Window-Functions/blob/main/Window%20Functions.sql)
+I use the [NYC Airbnb Kaggle dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) to [practice SQL window functions.  
+Click here to access the SQL code with comments.](https://github.com/Nikhil-Pickle/Window-Functions/blob/main/Window%20Functions.sql)
 
 - PARTITION BY
 - ROW_NUMBER
